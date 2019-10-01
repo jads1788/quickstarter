@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 Research and Analysis of Kickstarter Campaigns data with the purpose of discovering hidden trends and emphasizing in the theater/play category.
 
-Prepared for Louise by Johnny Dejeas-Saldias
+Prepared for Louise by JADS1788
 
 ## Customer References/Precedents
 * Estimates money to be raised: US$12,000.00
@@ -32,9 +32,16 @@ The Theater category is the most successful category worldwide. Is important to 
 [INSERT THEATER CATEGORY OUTCOMES HERE]
 A more relevant analysis for the customer requires an inspection within the Theater campaigns, divided into 3 subcategories: Musical, Plays and Spaces. The chart above shows that the Play subcategory has the highest number of a)campaigns, and b)successful outcomes.
 
+## Outcomes Based on Goals
+Campaigns between <$1000 and up to $20,000 have a 50% of success rate; and it picks up at 50% again between $35,000 and $50,000.
+The number of failed campaigns began raising exponentially as the campaign goals grew, peaking at $35,000, where close to 80% of campaigns failed. After a substancial drop in failure of about 50 points on campaigns asking between $35,000 and $40,000, failed campaigns reached their peak at almost 100% for campaigns asking from $50,000 or more.
+
+We would also like to point out that no campaign was cancelled, regardless of their goals.
+[Insert Outcomes Based on Goals]
+
 ## Outcomes Based on Campaign Lenght
 A majority of campaigns tend to have a duration of approximately 4 weeks. Although there are more successful campaings in the 30 days range, the ratio of failed campaigns also raises exponentially. 
-When we specify our analysis into the Theater/Play subcategories within the US, we noticed that the success rates are higher for campaigns that last between 1 and 4 weeks, where 4 weeks seems to be the final recommendation.
+When we specify our analysis into the Theater/Play subcategories within the US, we noticed that the success rates are higher for campaigns that last between 1 and 4 weeks, where 4 weeks seems to be the final recommendation for the customer.
 [Insert US Outcomes Based on Campaign Length]
 
 ## Outcomes Based on Launch Date
@@ -65,3 +72,4 @@ This is an example of a successful campaign with just under a 4-week duration, t
 2) Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
 3) 25% of musical campaigns got no funding at all.
 
+###Challenge
