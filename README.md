@@ -22,7 +22,7 @@ The color-scheme indicates goes from red to blue (90 percentile) to shows if a c
 * The Average Donation establishes the typical or normal amount donated historically.
 
 ## Categories Outcomes
-![PARENT CATEGORY](IMG/ParentCategoryOutcome_Chart.png "Parent Category chart")
+![PARENT CATEGORY](quickstarter/IMG/ParentCategoryOutcome_Chart.png "Parent Category chart")
 The Theater category is the most successful category worldwide. Is important to note that the number of successful and failed are accordingly also high.
 
 ![Insert US subcategory outcomes chart]
