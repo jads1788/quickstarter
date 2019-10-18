@@ -25,8 +25,6 @@ The color-scheme indicates goes from red to blue (90 percentile) to shows if a c
 ![Parent Category chart](img/ParentCategoryOutcome_Chart.png "Parent Category chart")
 The Theater category is the most successful category worldwide. Is important to note that the number of successful and failed are accordingly also high.
 
-![US Subcategory Outcomes chart](img/USSubcategoryOutcomeschart.png "US Subcategory Outcomes chart")
-
 ## Subcategories Outcomes
 ![US Theater Category Outcomes chart](img/USTheaterCategoryOutcomes.png "US Theater Category Outcomes chart")
 A more relevant analysis for the customer requires an inspection within the Theater campaigns, divided into 3 subcategories: Musical, Plays and Spaces. The chart above shows that the Play subcategory has the highest number of a)campaigns, and b)successful outcomes.
@@ -41,7 +39,7 @@ We would also like to point out that no campaign was cancelled, regardless of th
 ## Outcomes Based on Campaign Lenght
 A majority of campaigns tend to have a duration of approximately 4 weeks. Although there are more successful campaings in the 30 days range, the ratio of failed campaigns also raises exponentially. 
 When we specify our analysis into the Theater/Play subcategories within the US, we noticed that the success rates are higher for campaigns that last between 1 and 4 weeks, where 4 weeks seems to be the final recommendation for the customer.
-![ US Outcomes Based on Campaign Length](USOutcomesBasedOnLength.png "US Outcomes Based on Campaign Length")
+![ US Outcomes Based on Campaign Length](img/USOutcomesBasedOnLength.png "US Outcomes Based on Campaign Length")
 
 ## Outcomes Based On Launch Date
 ![Outcomes Based On Launch Date](img/OutcomesBasedOnLaunchDate.png "Outcomes Based On Launch Date")
