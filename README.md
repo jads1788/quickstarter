@@ -25,7 +25,7 @@ The color-scheme indicates goes from red to blue (90 percentile) to shows if a c
 ![Parent Category chart](img/ParentCategoryOutcome_Chart.png "Parent Category chart")
 The Theater category is the most successful category worldwide. Is important to note that the number of successful and failed are accordingly also high.
 
-![US subcategory outcomes chart](img/"US Subcategory Outcomes chart")
+![US subcategory outcomes chart](img/US\Subcategory\Outcomes\chart.png)
 
 ## Subcategories Outcomes
 ![US Theater Category Outcomes chart](img/US Theater Category Outcomes.png "US Theater Category Outcomes chart")
