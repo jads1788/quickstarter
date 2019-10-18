@@ -25,10 +25,10 @@ The color-scheme indicates goes from red to blue (90 percentile) to shows if a c
 ![Parent Category chart](img/ParentCategoryOutcome_Chart.png "Parent Category chart")
 The Theater category is the most successful category worldwide. Is important to note that the number of successful and failed are accordingly also high.
 
-![US subcategory outcomes chart](img/US\Subcategory\Outcomes\chart.png)
+![US Subcategory Outcomes chart](img/USSubcategoryOutcomeschart.png "US Subcategory Outcomes chart")
 
 ## Subcategories Outcomes
-![US Theater Category Outcomes chart](img/US Theater Category Outcomes.png "US Theater Category Outcomes chart")
+![US Theater Category Outcomes chart](img/USTheaterCategoryOutcomes.png "US Theater Category Outcomes chart")
 A more relevant analysis for the customer requires an inspection within the Theater campaigns, divided into 3 subcategories: Musical, Plays and Spaces. The chart above shows that the Play subcategory has the highest number of a)campaigns, and b)successful outcomes.
 
 ## Outcomes Based on Goals
@@ -36,15 +36,15 @@ Campaigns between <$1000 and up to $20,000 have a 50% of success rate; and it pi
 The number of failed campaigns began raising exponentially as the campaign goals grew, peaking at $35,000, where close to 80% of campaigns failed. After a substancial drop in failure of about 50 points on campaigns asking between $35,000 and $40,000, failed campaigns reached their peak at almost 100% for campaigns asking from $50,000 or more.
 
 We would also like to point out that no campaign was cancelled, regardless of their goals.
-![Outcomes Based on Goals](img/Outcomes Based on Goals.png "Outcomes Based on Goals")
+![Outcomes Based on Goals](img/OutcomesBasedonGoals.png "Outcomes Based on Goals")
 
 ## Outcomes Based on Campaign Lenght
 A majority of campaigns tend to have a duration of approximately 4 weeks. Although there are more successful campaings in the 30 days range, the ratio of failed campaigns also raises exponentially. 
 When we specify our analysis into the Theater/Play subcategories within the US, we noticed that the success rates are higher for campaigns that last between 1 and 4 weeks, where 4 weeks seems to be the final recommendation for the customer.
-![ US Outcomes Based on Campaign Length](US Outcomes Based on Campaign Length.png "US Outcomes Based on Campaign Length")
+![ US Outcomes Based on Campaign Length](USOutcomesBasedOnLength.png "US Outcomes Based on Campaign Length")
 
 ## Outcomes Based On Launch Date
-![Outcomes Based On Launch Date](img/Outcomes Based on Launch Date.png "Outcomes Based On Launch Date")
+![Outcomes Based On Launch Date](img/OutcomesBasedOnLaunchDate.png "Outcomes Based On Launch Date")
 Analysis have shown that successful campaigns tend to be launched in May, and that success maintains throught July. On the other end, campaigns launched on December tend to fail.
 
 ## US Quickstarter Campaigns: Theater/Plays
@@ -60,7 +60,7 @@ Snapshot: US has a total of 3038 campaigns, while GB 604 campaigns.
 When comparing successful campaigns in the US and GB markets, we noticed the GB one is dominated almost exclusively by Theater projects, specifically by the Play subcategory; meanwhile in the US, the successful market is shared with at least 3 other categories (i.e. music, film & video, and technology, respectively).
 
 ### Edingburgh Research
-[Edingburgh Research](img/edinburghresearch.png "Edingburgh Research")
+[Edingburgh Research](img/edinburghresearch.png "EdingburghResearch")
 
 ### Foresight play
 This is an example of a successful campaign with just under a 4-week duration, the donations averaged £117 (US$144), with a total of 17 backers.
