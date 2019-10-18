@@ -58,7 +58,7 @@ Snapshot: US has a total of 3038 campaigns, while GB 604 campaigns.
 When comparing successful campaigns in the US and GB markets, we noticed the GB one is dominated almost exclusively by Theater projects, specifically by the Play subcategory; meanwhile in the US, the successful market is shared with at least 3 other categories (i.e. music, film & video, and technology, respectively).
 
 ### Edingburgh Research
-[Edingburgh Research](img/EdinburghResearch.png "EdingburghResearch")
+![Edingburgh Research](img/EdinburghResearch.png "EdingburghResearch")
 
 ### Foresight play
 This is an example of a successful campaign with just under a 4-week duration, the donations averaged £117 (US$144), with a total of 17 backers.
